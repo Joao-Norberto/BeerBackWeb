@@ -1,28 +1,37 @@
 # BeerBackWeb
-## Descrição
-  Aplicativo focado em sustentabilidade, aonde um consumidor de cerveja tem acesso a pontos de devoluções e para cada devolução realizada ele juntamente com o revendedor receberão uma bonificação.
+## Description
+  Application focused on sustainability, where a beer consumer has access to points of returns and for each return made he together with the dealer will receive a bonus.
 
+[![BeerBack: a sustainable consumption](http://img.youtube.com/vi/LPbvyXuipJs/0.jpg)](http://www.youtube.com/watch?v=LPbvyXuipJs "BeerBack")
 
-## Imagens Do aplicativo
+## Application Images
 
-### Tela de login
-<img src="https://github.com/VictorRevers/BeerBackWeb/blob/main/print/%20Tela%20de%20login.png" width="200px" >
+### Login screen
+<div align=”center”>
+  <img src="https://github.com/VictorRevers/BeerBackWeb/blob/main/print/%20Tela%20de%20login.png" width="200px" >
+</div>
 
-### Tela inicial usuario
-   <img src="https://github.com/VictorRevers/BeerBackWeb/blob/main/print/tela%20usuario.png" width="200px" >
+### User home screen
+<div align=”center”>
+  <img src="https://github.com/VictorRevers/BeerBackWeb/blob/main/print/tela%20usuario.png" width="200px" >
+</div>
 
-### Autenticador via QR code
-   <img src="https://github.com/VictorRevers/BeerBackWeb/blob/main/print/autenticador.png" width="200px" >
-    
+### Authenticator via QR code
+<div align=”center”>
+  <img src="https://github.com/VictorRevers/BeerBackWeb/blob/main/print/autenticador.png" width="200px" >
+</div>
 
-### Historico 
+### History
+<div align=”center”>
    <img src="https://github.com/VictorRevers/BeerBackWeb/blob/main/print/historico.png" width="200px" >
+</div>
 
-
-### Configurações
+### Settings
+<div align=”center”>
    <img src="https://github.com/VictorRevers/BeerBackWeb/blob/main/print/conf.png" width="200px" >
+</div>
 
-
-### Loja de produtos
+### Products Store
+<div align=”center”>
    <img src="https://github.com/VictorRevers/BeerBackWeb/blob/main/print/loja.png" width="200px" >
-   
+</div>
